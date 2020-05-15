@@ -1,0 +1,92 @@
+<html>
+<head>
+
+<style>
+body{
+background-color: #2F4F4F;
+}
+</style>
+
+<style>
+p{
+text-align: center;
+color: #FFDEAD;
+font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+font-size: 45px;
+}
+</style>
+
+<style>
+h1{
+color: #1E90FF;
+font-family: Verdana, Geneva, sans-serif
+font-size: 25px;
+}
+</style>
+
+<style>
+h2{
+color: #1E90FF;
+font-family: Verdana, Geneva, sans-serif
+font-size: 25px;
+}
+</style>
+
+<style>
+h3{
+color: #1E90FF;
+font-family: Verdana, Geneva, sans-serif
+font-size: 25px;
+}
+</style>
+
+<style>
+h4{
+color: #1E90FF;
+font-family: Verdana, Geneva, sans-serif
+font-size: 25px;
+}
+</style>
+
+<style>
+button{
+font-size: 20px;
+}
+</style>
+
+<body>
+<p>WHAT I ALWAYS DO</p>
+
+<h1>If I have more time or when I feel stress, I like playing games. There is
+a famous mobile games that I play named Mobile Legend. My favourite hero is Miya.
+Eventhough I'm not good in play games, I still play it released my tension.</h1>
+
+<h2>Other than playing games, I also like to listen to music. Here is my favourite
+music by BTS.</h2>
+
+<audio width="100" height="50"controls autoplay>
+	<source src="Downloads\BTS- BOY WITH LUV ft. Halsey.mp3" type="audio/mpeg">
+</audio>
+
+<h3>I also like watching movies especially korean movie. I really like watching 
+<b>RUNNING MAN</b> because it is funny. This is the one of the episode that I 
+like watching.</h3>
+
+<video width="250" height="200" controls autoplay>
+	<source src="C:\Users\User\Downloads\Telegram Desktop\@Fanszz E500 Running Man 720p.mp4"
+	type="video/mp4">
+</video>
+	
+<h4>That is the hobby that I always do when I have free time.<h4>
+
+<button onclick="Back()">Back</button>
+
+<script>
+function goBack() {
+window.history.back();
+}
+</script>
+
+</body>
+</head>
+</html>

@@ -1,0 +1,85 @@
+<html>
+<head>
+
+<style>
+body{
+background-color: #FFA07A;
+}
+</style>
+
+<style>
+h1{
+color: #DC143C;
+font-family: Georgia, serif;
+font-size: 30px;
+}
+</style>
+
+<style>
+p{
+color: #808000;
+font-family: Times New Roman, Times, serif;
+font-size: 25px;
+}
+</style>
+
+<style>
+h2{
+color: #808000;
+font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+font-size: 25px;
+}
+</style>
+
+<style>
+h3{
+color:
+font-family: Trebuchet MS, Helvetica, sans-serif;
+font-size: 30px;
+}
+</style>
+
+<style>
+h4{
+color: #008B8B;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px:
+}
+<style>
+
+<style>
+button{
+font-size: 30px;
+}
+</style>
+
+<h1>MY BIODATA</h1>
+<p>My name is <b>WANN NURUL ALIZA ELLISA BT WAN AHMAD ZAIDI.</b> I live in Kampung Batangan, Marang, Terengganu.
+I have four siblings including me.I is the eldest one.I have one younger sister named <b>HANI</b> and two younger 
+brother named <b>IRFAN</b> and <b>HAZIQ.</b> While my father's name is <b>ZAIDI</b> and my my mother's name is 
+<b>TEH.<b> So,the total of our family member is six people ang live a happy life.
+
+<h2>Now, I'm further my study at <b>University Technology Mara or known as UiTM</b> in degree at branch
+Kuala Terengganu.I'm student of Faculty Science and Computer in Bachelor of Science Computer. This is my
+second year which is in fourth semester.<h2>
+
+<h3>WHY I STUDY AT UiTM?</h3>
+
+<img src="C:\Users\User\Downloads\NOTES SEM 4\DYNAMIC WEB\bootstrap-4.4.1-dist\bootstrap-4.4.1-dist\image\emoji 2.jpg"
+width="100" height="100"></img>
+
+<h4>The first reason is because UiTM has a low fee and I have to pay the fee less than RM600.
+The second reason is because of my parent. They want me to study near them. So, they didn't
+worry about me. That's how I end up study here but I'm not care anymore because there is 
+something behind all this.</h4>
+
+<button onclick="Back()">Back</button>
+
+<script>
+function goBack() {
+window.history.back();
+}
+</script>
+
+</head>
+</html>

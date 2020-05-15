@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  background-color: #FFD700;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<style>
+body{
+background-color: #DEB887;
+}
+</style>
+
+<style>
+h2{
+text-align: center;
+font-family: Arial Black, Gadget, sans-serif;
+font-size: 45px;
+color: #A52A5A;
+}
+</style>
+
+<style>
+button{
+font-size: 30px;
+}
+</style>
+
+</head>
+<body>
+
+<h2>Table</h2>
+
+<table>
+  <tr>
+    <th>THINGS I LIKE</th>
+    <th>THINGS I DON'T LIKE</th>
+  </tr>
+  <tr>
+    <td>Play games</td>
+    <td>Wake up early</td>
+  </tr>
+  <tr>
+    <td>Eat laksa penang</td>
+    <td>Eat cheese</td>
+  </tr>
+  <tr>
+    <td>Reading comic and novel</td>
+    <td>I don't like study</td>
+</table>
+
+<button onclick="Back()">Back</button>
+
+<script>
+function goBack() {
+window.history.back();
+}
+</script>
+
+
+
+</body>
+</html>
